@@ -49,11 +49,11 @@ html,body{
 
 .copyright{
   font-family: 'Georgia', serif;
-  font-size: 0.35rem;
+  font-size: 0.3rem;
   font-weight: 400;
   color: #484848;
   text-align: center;
-  margin: 15px 0 5px 0;
+  margin: 16px 0 5px 0;
   vertical-align: middle;
 }
 
@@ -71,7 +71,7 @@ html,body{
   width: 9.8px;
   display: inline-block;
   vertical-align: middle;
-  margin: 6px 6px 16px 6px;
+  margin: 6px 6px 19px 6px;
 }
 
 .hme{
