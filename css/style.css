@@ -1,7 +1,5 @@
 html,body{
-  min-height: 100%;
-  max-width: 520px;
-  width: 100%;
+  width: 520px;
   margin: auto;
 }
 
@@ -71,7 +69,7 @@ html,body{
 }
 
 .fpic{
-  width: 1.9%;
+  width: 26px;
   display: inline-block;
   vertical-align: middle;
   margin: 6px 6px 16px 6px;
