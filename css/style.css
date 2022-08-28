@@ -1,0 +1,84 @@
+html,body{
+  min-height: 100%;
+  max-width: 520px;
+  width: 100%;
+  margin: auto;
+}
+
+.title{
+  text-align: center;
+  border-style: solid;
+  border-color: black;
+  border-width: 1.325px;
+  margin: 20px 79px 47px 79px;
+  padding: 12px 0 12px 0;
+  line-height: 1;
+}
+
+.tlink{
+  vertical-align: middle;
+  font-style: italic;
+  font-size: 0.5rem;
+  font-weight: 500;
+  text-decoration: none;
+  margin: 0;
+  padding: 0 6px 0 6px;
+  color: #888888;
+}
+
+.clr{
+  color:black;
+}
+
+.tlink:hover{
+  color: black;
+}
+
+.name{
+  margin: 0;
+  font-family: 'Georgia', serif;
+  font-size: 2rem;
+  font-weight: 500;
+  vertical-align: middle;
+}
+
+.pic{
+  width: 416px;
+  height: 416px;
+  object-fit: cover;
+  margin: 0.5px 51px 0 51px;
+}
+
+.copyright{
+  font-family: 'Georgia', serif;
+  font-size: 0.35rem;
+  font-weight: 400;
+  color: #484848;
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  vertical-align: middle;
+}
+
+.slant{
+  font-size: 0.33rem;
+  font-weight: 500;
+  font-style:italic;
+}
+
+.footer{
+  text-align: center;
+}
+
+.fpic{
+  width: 1.9%;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 6px 6px 16px 6px;
+}
+
+.hme{
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 10px 0 0 2px;
+}
