@@ -9,8 +9,8 @@ html,body{
   border-color: black;
   border-width: 1.325px;
   margin: 20px 79px 47px 79px;
-  padding: 12px 0 12px 0;
-  line-height: 1;
+  padding: 11.1px 0 11.1px 0;
+  line-height: 1.05;
 }
 
 .tlink{
@@ -21,7 +21,7 @@ html,body{
   text-decoration: none;
   margin: 0;
   padding: 0 6px 0 6px;
-  color: #888888;
+  color: #787878;
 }
 
 .clr{
